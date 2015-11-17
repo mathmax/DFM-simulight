@@ -1,6 +1,6 @@
 # DFM-simulight
 
-Project was financed with funds from National Science Centre in Poland (decision number DEC- 2011/03//D/ST6/03236).
+Project was financed with funds from National Science Centre in Poland (decision number DEC- 2011/03//D/ST6/03236) at the Institute of Biocybernetics and Biomedical Engineering Polish Academy of Sciences.
 
 The aim of the research related to the project is to develop methods and software for analyzing multiparameter probability distributions connected with distributions of times of flight of photons through given media. Estimation of the parameters of the distributions will allow for estimation of the optical properties of measured structures studied using near-infrared spectroscopy. Proper evaluation of absolute values of macroscopic optical properties and volume of penetration of structures of optically turbid medium is going to allow for wider usage of near-infrared spectroscopy measurements in medical diagnostics. 
 Previous studies have demonstrated the possibility of broad use of non-invasive methods based on radiation of visible light and near-infrared for monitoring of cerebral oxygenation.
